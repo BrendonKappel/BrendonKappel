@@ -1,5 +1,5 @@
 
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/BrendonKappel/BrendonKappel/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
+<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/BrendonKappel/BrendonKappel/blob/master/header-image.png" />
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">I solve problems in our world through programming! 🤯😱 <br><br> Hello, my name is Brendon, I'm 19 years old, I'm a beginner developer, and I'm improving myself every day to be able to provide a valuable and high-quality service to our society.</p>&nbsp;
