@@ -2,7 +2,7 @@
 <img align="center" style="margin-bottom:100px" width=100% src="https://github.com/BrendonKappel/BrendonKappel/blob/master/header-image.png" />
 &nbsp;&nbsp;&nbsp;
 
-<p align="center">I solve problems in our world through programming! 🤯😱 <br><br> Hello, my name is Brendon, I'm 19 years old, I'm a beginner developer, and I'm improving myself every day to be able to provide a valuable and high-quality service to our society.</p>&nbsp;
+<p align="center">I solve problems in our world through programming! 🤯😱 <br><br> Hello, my name is Brendon. I’m a passionate junior developer dedicated to continuous learning and self-improvement. My goal is to deliver valuable, high-quality solutions that positively impact society.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=BrendonKappel&theme=radical&mode=weekly" />
